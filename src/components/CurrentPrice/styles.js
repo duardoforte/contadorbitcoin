@@ -5,20 +5,21 @@ headerPrice: {
 width:"100%",
 height:"auto",
 alignItems:"center",
-marginBottom:20,
+marginBottom:10,
 },
 
 currentPrice:{
 color:"#f5980d",
-fontSize:32,
+fontSize:40,
 fontWeight:"bold",
 paddingTop:20,
 },
 
 textPrice:{
 color:"white",
-fontSize:28,
+fontSize:25,
 fontWeight:"bold",
+marginBottom:-10,
 },
 });
 
